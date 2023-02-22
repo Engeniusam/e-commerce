@@ -1,6 +1,6 @@
 # E-commerce
 
-> Completely responsive E-commerce web page. build with React/Redux and MaterialUI-styled-components. This allows the user to navigate through different categories of items, filter them by category and add them to the shopping cart. Users can manage their current bag on the shopping cart containing a list of items where each one can be deleted. In the shopping cart, the user can delete or finish buying.
+> Completely responsive E-commerce web page built with React/Redux and MaterialUI-styled-components. This allows the user to navigate through different categories of items, filter them by category and add them to the shopping cart. Users can manage their current bag on the shopping cart containing a list of items where each one can be deleted. In the shopping cart, the user can delete or finish buying.
 
 
 ## Built With
